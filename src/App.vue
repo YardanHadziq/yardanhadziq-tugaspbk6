@@ -17,7 +17,7 @@
       </div>
     </div>
     <button @click="load">Load</button>
-    <p style="padding:10px" class="text-h6">Welcome to Data Buku View</p>
+    <p style="padding:10px" class="text-h6">Welcome to My Favourite Games</p>
   </div>
 </template>
 
