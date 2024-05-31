@@ -1,0 +1,44 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "Team Fortress 2",
+      "content": "Nine distinct classes provide a broad range of tactical abilities and personalities. Constantly updated with new game modes, maps, equipment and, most importantly, hats!"
+    },
+    {
+      "id": "2",
+      "title": "Tom Clancy's Rainbow Six Siege",
+      "content": "Tom Clancy's Rainbow Six® Siege is an elite, tactical team-based shooter where superior planning and execution triumph."
+    },
+    {
+      "id": "3",
+      "title": "Counter-Strike 2",
+      "content": "For over two decades, Counter-Strike has offered an elite competitive experience, one shaped by millions of players from across the globe. And now the next chapter in the CS story is about to begin. This is Counter-Strike 2."
+    },
+    {
+      "id": "4",
+      "title": "Resident Evil 6",
+      "content": "Blending action and survival horror, Resident Evil 6 promises to be the dramatic horror experience of 2013."
+    },
+    {
+      "id": "5",
+      "title": "Left 4 Dead 2",
+      "content": "Set in the zombie apocalypse, Left 4 Dead 2 (L4D2) is the highly anticipated sequel to the award-winning Left 4 Dead, the #1 co-op game of 2008."
+    },
+    {
+      "id": "6",
+      "title": "Valorant",
+      "content": "Valorant is a free-to-play first-person tactical hero shooter developed and published by Riot Games, for Windows. Teased under the codename Project A in October 2019, the game began a closed beta period with limited access on April 7, 2020, followed by a release on June 2, 2020."
+    },
+    {
+      "id": "7",
+      "title": "Minecraft",
+      "content": "Minecraft is a 2011 sandbox game developed by Mojang Studios and originally released in 2009. The game was created by Markus \"Notch\" Persson in the Java programming language."
+    },
+    {
+      "id": "8",
+      "title": "osu!",
+      "content": "Osu! is a free-to-play rhythm game originally created and self-published by Australian developer Dean Herbert. Inspired by gameplay of the Osu! Tatakae! Ouendan series, it was released for Microsoft Windows on 16 September 2007"
+    }
+  ]
+}
